@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jaxb-impl-2.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jaxb-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jackson-core-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jaxb-core-2.2.11 (1).jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
